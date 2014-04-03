@@ -1,6 +1,8 @@
+
 $(document).ready(function() {
   $("form").submit(function(event) {
     event.preventDefault();
-    $.post( "/grandma", $(this).serialize() );
+    console.log(event)
+    $.post( "/grandma", $(this).serialize() {} );
   });
 });
