@@ -7,5 +7,6 @@ Its an app that simulates talking to deaf grandma! Anything you say to grandma i
 
 `shotgun`
 
-## Pics or it didnt happen!
+## Screenshot
 
+![alt tag](https://raw.githubusercontent.com/Carpk/deaf_sinatra/master/public/images/Screenshot%20from%202014-04-02%2020:56:32.png)
